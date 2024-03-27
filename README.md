@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YDanielY
-- 👀 I’m interested in web devloping and game devloping
-- 🌱 I’m currently learning python and c++
+- 👀 I’m interested in web devloping 
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on code and others
 - 📫 How to reach me -danielyo7216@gmail.com
   
